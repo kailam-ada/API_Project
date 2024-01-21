@@ -5,11 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <h1>API Project</h1>
-    <input id="code" type="text" placeholder="code insee"/>
-    <button id="search">Search</button>
-    <div id="content"></div>
+    <div class="header">
+        <h1>API Project</h1>
+    </div>
+    <div class="input">
+        <!-- <input id="code" type="text" placeholder="code insee"/> -->
+        <input id="postCode" type="text" placeholder="code postal"/>
+        <button id="search">Search</button>
+    </div>
+    <div class="content" id="content"></div>
 </body>
 </html>

@@ -1,0 +1,34 @@
+.header {
+    padding: 40px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 25px;
+  }
+
+.input {
+    padding: 30px 30px 30px 80px;
+    border: solid #1abc9c;
+}
+
+.content {
+    padding-left: 80px;
+    border: solid #1abc9c;
+}
+
+.result {
+    font-weight: bold;
+}
+
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.google-map iframe {
+    height: 80%;
+    width: 80%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
