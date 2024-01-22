@@ -1,5 +1,5 @@
 .header {
-    padding: 40px;
+    padding: 30px;
     text-align: center;
     background: #1abc9c;
     color: white;
@@ -20,15 +20,26 @@
     font-weight: bold;
 }
 
-.google-map {
-    padding-bottom: 50%;
-    position: relative;
+#map {
+    width: 500px; 
+    height: 350px;
+    border: solid black
 }
 
-.google-map iframe {
-    height: 80%;
-    width: 80%;
-    left: 0;
-    top: 0;
-    position: absolute;
+@media (max-width: 768px) {
+    /* Styles for screens with a maximum width of 768 pixels (tablets) */
+    #map {
+        height: 300px;
+    }
+
+    .form {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    /* Styles for screens with a maximum width of 480 pixels (phones) */
+    #map {
+        height: 200px;
+    }
 }
