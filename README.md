@@ -1,10 +1,10 @@
 # API_Project
 
-**Langages :** Javascript, HTML
-**Software :** Postman
-**IDE :** VSCode
-Utilisation de l'[API Géorisques](https://api.gouv.fr/documentation/api-georisques) pour ce projet.
-MAJ du 21/01/2024 utilisation de l'[API Géo](https://api.gouv.fr/documentation/api-geo).
+- **Langages :** Javascript, HTML
+- **Software :** Postman
+- **IDE :** VSCode
+- Utilisation de l'[API Géorisques](https://api.gouv.fr/documentation/api-georisques) pour ce projet.
+- MAJ du 21/01/2024 utilisation de l'[API Géo](https://api.gouv.fr/documentation/api-geo).
 
 Le but de ce projet est de pouvoir récupérer des données via une API et de les visualiser sur un site html.
 
@@ -29,6 +29,10 @@ Base URL: <www.georisques.gouv.fr>
 | `code_insee` | `string` | **Required**. Code INSEE de la commune |
 
 Le code INSEE est récupéré dans l'input.
+
+## Deployment
+
+[The project is live !](https://kailam-ada.github.io/API_Project/)
 
 ## Author
 
