@@ -1,6 +1,6 @@
 # API_Project
 
-- **Langages :** Javascript, HTML
+- **Langages :** Javascript, HTML, CSS
 - **Software :** Postman
 - **IDE :** VSCode
 - Utilisation de l'[API Géorisques](https://api.gouv.fr/documentation/api-georisques) pour ce projet.
@@ -30,11 +30,14 @@ Base URL: <www.georisques.gouv.fr>
 
 Le code INSEE est récupéré dans l'input.
 
-## Deployment
+## Déploiement
 
-[The project is live !](https://kailam-ada.github.io/API_Project/)
+[Le project est en ligne !](https://kailam-ada.github.io/API_Project/)
 
-## Author
+## Auteur
+
+Hello ! Je suis Kai ! Apprenant à Ada Tech School une école inclusive et féministe où je fais des projets en groupe.
+Je suis actuellement à la recherche d'une **alternance**.
 
 [![GitHub kailam-ada](https://img.shields.io/github/followers/kailam-ada)](https://github.com/kailam-ada)
 [![Linkedin: kai-lam](https://img.shields.io/badge/-kailam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kai-lam)](https://linkedin.com/in/kai-lam)
