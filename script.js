@@ -1,11 +1,11 @@
 let searchButton = document.querySelector("#search");
-// let codeInput = document.querySelector("#code");
+// let codeInsee = document.querySelector("#code");
 let postCodeInput = document.querySelector("#postCode");
 let contentDiv = document.querySelector("#content");
 
 searchButton.addEventListener("click", () => {
     // console.log("button pressed");
-    // console.log(`${codeInput.value}`);
+    // console.log(`${codeInsee.value}`);
     console.log(`${postCodeInput.value}`);
     // sendApiRequest();
     postCodeToInsee();
