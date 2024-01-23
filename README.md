@@ -13,6 +13,7 @@ Le but de ce projet est de pouvoir récupérer des données via une API et de le
 - Liste des types de risques recencés sur le territoire concerné.
 - MAJ du 21/01/2024: utilisation de l'API Géo afin de convertir un code postal en code INSEE pour une user experience plus simple.
 Récupération du nombre d'habitants correspondant au code postal.
+- MAJ du 22/01/2024: intégration d'une carte interactive à partir de laquelle il est possible d'obtenir la liste de risques en cliquant sur la commune choisie.
 
 ## API Géorisques
 
